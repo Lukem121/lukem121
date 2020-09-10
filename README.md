@@ -30,6 +30,7 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discovering how much I love open source](https://dev.to/lukem121/discovering-how-much-i-love-open-source-30p0)
 <!-- BLOG-POST-LIST:END -->
 
 
