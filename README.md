@@ -1,6 +1,4 @@
 ### Hi there, I'm Luke! 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 ## I'm that funny, hansome and humble guy you have been waiting to meet!
 
 - 🔭 I’m currently working on my [Website][website]!
