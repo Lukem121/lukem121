@@ -1,5 +1,5 @@
 ### Hi there, I'm Luke! 👋
-## I'm that funny, hansome and humble guy you have been waiting to meet!
+## I'm that funny, handsome and humble guy you have been waiting to employ!
 
 - 🔭 I’m currently working on my [Website][website]!
 - 🌱 I’m currently learning everything 🤣
