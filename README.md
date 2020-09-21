@@ -29,6 +29,7 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Earn crypto from watching videos.](https://dev.to/lukem121/earn-crypto-from-watching-videos-5epk)
 - [Discovering how much I love open source](https://dev.to/lukem121/discovering-how-much-i-love-open-source-30p0)
 <!-- BLOG-POST-LIST:END -->
 
