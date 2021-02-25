@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my [Website][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to ski 🏂
 
 ### Languages and Tools:
